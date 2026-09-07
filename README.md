@@ -6,14 +6,12 @@
 			 ✅ Links & References
 			 ✅ Location information
 			 🟡 IUCN & RDB status
-			 🔲 !Entry attributes
 			 ✅ Atomic entry content
 			 🔲 Higher rank entries content
 			 ✅ (Dev) Sidebar section navigation (collapsible on mobile view)
 			 ✅ Assigning zones to entries
-			 🔲 !Assigning habitats to entries
-			 🔲 !Adding form information to entries (juvenile, larvae form etc.)
-		 🔲 Entry guides
+			 ✅ Assigning habitats to entries
+	   🔲 Entry guides (/wildfacts/guides)
 			 🔲 Pages to aggregate guides
 			 🔲 Entry guide content (pages on how to tell apart things)
 	🟡 Entry aggregates
@@ -24,7 +22,7 @@
 				✅ Logic for single checkbox single taxa
 				✅ Logic for single checkbox multiple taxa
 				🔲 Logic for "Other" checkbox option
-		🔲 Step-by-step Photo indexes
+		🟡 Step-by-step Photo indexes
 			🟡 Identify features to group entries by
             ✅ Marine
             🔲 Terrestrial
@@ -34,7 +32,7 @@
             🔲 Adapt from original fi.htm pages
             🔲 Create new photoindexes
             🔲 Assign features to photoindexes
-   🔲 New pages that reflect the goals of the new site
+    🔲 New pages that reflect the goals of the new site
       🔲 Make a Difference pages
          🟡 For Individuals
             🟡 Index page
@@ -42,24 +40,11 @@
                🔲 Nature Communities & Groups pages
          🟡 For Teachers
          🔲 For guides
-   🔲 Our wild spaces (a page for every place)
-   🔲 Habitat pages
-	🟡 Layout components (subject to feedback & change)
-		🔲 Responsive css
-		🟡 Navigation header
-		🟡 Footer
-   🔲 Add a search engine in the "For Teachers" page
-      🔲 Add classroom activities with proper YAML headers
-   🔲 Vector art and background illustrations
-
-# The Future 
-    🔲 Client-server architecture
-      🔲 Features
-         🔲 Visual editor
-         🔲 Contributor dashboard for editing authorized entries
-         🔲 Reviewer dashboard
-         🔲 Admin dashboard
-      
+      🔲 Our wild spaces (a page for every place)
+      🔲 Habitat pages
+    🔲 Add a search engine in the "For Teachers" page
+    🔲 Add classroom activities with proper YAML headers
+    🔲 Vector art and background illustrations 
 ---
 
 # Wild Singapore
