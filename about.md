@@ -13,7 +13,7 @@ We believe the site's future stands in open-source, and welcome any interested p
 
 
 ### About Wild Fact Sheets
-The website was set up for a layman introduction to our more common marine life. It was created in 1984! It also hopes to help nature guides in their work, with a [special section for nature guides](wildfacts/forguides/index).
+The website was set up for a layman introduction to our more common marine life. It was created in 1984! It also hopes to help nature guides in their work, with a [special section for nature guides](http://www.wildsingapore.com/wildfacts/forguides/index.html).
 
 The Wild Fact Sheets is an 'upgrade' of the Chek Jawa online guide that was launched in 2003 to support the Chek Jawa guidebook. That online guide was set up to include all the information and photos that could not fit into the guidebook. Since then, Ria has been visiting many other shores and has been amazed by the rich shorelife. In preparation for a broader guidebook to all our shores, Ria has set up the new Wild FactSheets online guide to showcase Singapore's shorelife. It is a work in progress and pages will be continuously added and updated. The focus is on marinelife on the intertidal. But hopefully, as I have more time and information, I hope to add factsheets about our other wild stuff, subtidal and terrestrial. 
   
@@ -22,10 +22,10 @@ As this originally started as a fork of Ria Tan's website, please contact her (R
 
 Free use is permitted for educators using the material in a classroom setting or non-commercial educational activities, students using this material for school assignments, personal websites, and screen savers. For such uses, **please acknowledge the source (www.wildsingapore.com) and copyright holder (Ria Tan)**, adding a link to Ria's site (www.wildsingapore.com/wildfacts/) And do let me know so that I can add a link to your site too.
 
-The Wild Fact Sheets would not have been possible without the kind and generous support of many people. I gratefully [acknowledge](thanks) them, but all errors and omissions are entirely mine.
+The Wild Fact Sheets would not have been possible without the kind and generous support of many people. I gratefully [acknowledge](http://www.wildsingapore.com/wildfacts/thanks.htm) them, but all errors and omissions are entirely mine.
 
 
-For [more about wildsingapore.com](https://images.naturehungry.sg/about) and Ria's [other projects](https://images.naturehungry.sg/projects/index), and more [about Ria](https://images.naturehungry.sg/riablog/people/ria).  
+For [more about wildsingapore.com](http://www.wildsingapore.com/about.htm) and Ria's [other projects](http://www.wildsingapore.com/projects/index.html), and more [about Ria](http://www.wildsingapore.com/riablog/people/ria.htm).  
 
 ---
 
