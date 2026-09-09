@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEjVXj2_fE9O5-fbLX_tBD
 family: Mastacembelidae
 genus: Macrognathus
 species: maculatus
-rdb3: CR
+rdb: CR
 zone:
 - freshwater
 inat_id: 187642

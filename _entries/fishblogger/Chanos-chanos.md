@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEj5gb61k3fe4TOKEeFINi
 family: Chanidae
 genus: Chanos
 species: chanos
-rdb3: LC
+rdb: LC
 zone: []
 inat_id: 55533
 stateofmatter: Life

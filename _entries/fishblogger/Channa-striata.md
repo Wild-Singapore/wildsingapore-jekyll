@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEgITvMw9zbl_j1KP87QNo
 family: Channidae
 genus: Channa
 species: striata
-rdb3: LC
+rdb: LC
 zone:
 - freshwater
 inat_id: 97280

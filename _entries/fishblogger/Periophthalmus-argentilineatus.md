@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEgPCoO3_htJJkrNX8UmI_
 family: Oxudercidae (Subfamily Oxudercinae - Mudskippers)
 genus: Periophthalmus
 species: argentilineatus
-rdb3: VU
+rdb: VU
 zone:
 - intertidal
 inat_id: 68720

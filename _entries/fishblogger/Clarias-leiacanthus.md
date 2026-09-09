@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEjS4ECLqDLQ20fbz1jiCQ
 family: Clariidae
 genus: Clarias
 species: leiacanthus
-rdb3: VU
+rdb: VU
 zone:
 - freshwater
 inat_id: 611728

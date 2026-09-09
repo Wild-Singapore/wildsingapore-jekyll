@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEikMlf8yyY1t65JE3hK5E
 family: Mugilidae
 genus: Ellochelon
 species: vaigiensis
-rdb3: LC
+rdb: LC
 zone:
 - marine
 - freshwater

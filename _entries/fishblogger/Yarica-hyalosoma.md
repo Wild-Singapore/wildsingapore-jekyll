@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEjgzx8m8AYdYHAnkHi3MG
 family: Apogonidae
 genus: Yarica
 species: hyalosoma
-rdb3: LC
+rdb: LC
 zone:
 - marine
 - freshwater

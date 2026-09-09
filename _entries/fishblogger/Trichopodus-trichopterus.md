@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEgabcoUe2H1INu6gCjjH0
 family: Osphronemidae
 genus: Trichopodus
 species: trichopterus
-rdb3: VU
+rdb: VU
 zone:
 - freshwater
 inat_id: 188583

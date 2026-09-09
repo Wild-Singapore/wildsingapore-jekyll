@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEgwTLJKc0KN86slo5AKWP
 family: Cyprinidae
 genus: Cyclocheilichthys
 species: apogon
-rdb3: EN
+rdb: EN
 zone:
 - freshwater
 inat_id: 187287

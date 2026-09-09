@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEirhYgY0ld_EK4wY9vKM8
 family: 'Oxudercidae: Gobionellinae'
 genus: Hemigobius
 species: melanurus
-rdb3: NT
+rdb: NT
 zone:
 - marine
 - freshwater

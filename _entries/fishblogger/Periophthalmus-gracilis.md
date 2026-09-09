@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEgWRZfBoJQyDhoGHYRQ3Q
 family: Oxudercidae (Subfamily Oxudercinae - Mudskippers)
 genus: Periophthalmus
 species: gracilis
-rdb3: VU
+rdb: VU
 zone:
 - intertidal
 inat_id: 461060

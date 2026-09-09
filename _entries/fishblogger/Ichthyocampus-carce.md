@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEgdzAzYzrrdC2J-lT3A6c
 family: Syngnathidae
 genus: Ichthyocampus
 species: carce
-rdb3: VU
+rdb: VU
 zone:
 - marine
 - freshwater

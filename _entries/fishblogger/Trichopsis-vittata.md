@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEjmFCwW1ucD_qjkbHh0aq
 family: Osphronemidae
 genus: Trichopsis
 species: vittata
-rdb3: LC
+rdb: LC
 zone:
 - freshwater
 inat_id: 188586

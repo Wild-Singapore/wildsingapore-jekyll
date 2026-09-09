@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEha_Vc4B3xx5AWnnr_27N
 family: Nandidae
 genus: Nandus
 species: nebulosus
-rdb3: EN
+rdb: EN
 zone:
 - freshwater
 inat_id: 187724

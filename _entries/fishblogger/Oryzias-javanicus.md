@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEg5Nm-KNnScXqXuCc0ri1
 family: Adrianichthyidae
 genus: Oryzias
 species: javanicus
-rdb3: LC
+rdb: LC
 zone:
 - marine
 - freshwater

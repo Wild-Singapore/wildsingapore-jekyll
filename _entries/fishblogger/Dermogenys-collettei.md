@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEgwNO1vKujjFTBktHndih
 family: Zenarchopteridae
 genus: Dermogenys
 species: collettei
-rdb3: LC
+rdb: LC
 zone:
 - freshwater
 inat_id: 466706

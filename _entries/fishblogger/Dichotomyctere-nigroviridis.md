@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEgWddOMhfm21Fmg6zBHHz
 family: Tetraodontidae
 genus: Dichotomyctere
 species: nigroviridis
-rdb3: LC
+rdb: LC
 zone:
 - freshwater
 inat_id: 621545

@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEi9bMoOkoJbApg1v93-5N
 family: Nemacheilidae
 genus: Nemacheilus
 species: selangoricus
-rdb3: CR
+rdb: CR
 zone:
 - freshwater
 inat_id: 187752

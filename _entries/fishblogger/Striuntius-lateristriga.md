@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEhN7gzXOlHh9B_0EjE7NH
 family: Cyprinidae
 genus: Striuntius
 species: lateristriga
-rdb3: EN
+rdb: EN
 zone:
 - freshwater
 inat_id: 1316238

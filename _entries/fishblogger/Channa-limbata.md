@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEgrk2KAMe6T_excRgVEsQ
 family: Channidae
 genus: Channa
 species: limbata
-rdb3: EN
+rdb: EN
 zone:
 - freshwater
 inat_id: 1316098

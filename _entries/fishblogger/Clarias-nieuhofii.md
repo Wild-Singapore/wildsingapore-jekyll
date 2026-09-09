@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEj7gtESkeyXlI61YId-7h
 family: Clariidae
 genus: Clarias
 species: nieuhofii
-rdb3: EN
+rdb: EN
 zone:
 - freshwater
 inat_id: 187242

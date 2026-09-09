@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEg6d9Itlz90ZzbNazHC4i
 family: Danionidae
 genus: Boraras
 species: maculatus
-rdb3: EN
+rdb: EN
 zone:
 - freshwater
 inat_id: 95888

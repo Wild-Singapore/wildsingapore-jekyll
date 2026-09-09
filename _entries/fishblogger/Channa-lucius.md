@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEhE14Y1hul-NBRGcvuWd-
 family: Channidae
 genus: Channa
 species: lucius
-rdb3: VU
+rdb: VU
 zone: []
 inat_id: 187221
 stateofmatter: Life

@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEhoeF9bkM8Tu3yDi91iOy
 family: 'Oxudercidae: Gobionellinae'
 genus: Stigmatogobius
 species: sadanundio
-rdb3: LC
+rdb: LC
 zone:
 - marine
 - freshwater

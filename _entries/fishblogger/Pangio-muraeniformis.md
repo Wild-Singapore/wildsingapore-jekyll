@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEhRnOIYTCpzIR5wdnHhkw
 family: Cobitidae
 genus: Pangio
 species: muraeniformis
-rdb3: CR
+rdb: CR
 zone:
 - freshwater
 inat_id: 611900

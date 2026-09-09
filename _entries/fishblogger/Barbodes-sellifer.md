@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEg_GOJZnYGHi0y2yP9blY
 family: Cyprinidae
 genus: Barbodes
 species: sellifer
-rdb3: VU
+rdb: VU
 zone:
 - freshwater
 inat_id: 1359879

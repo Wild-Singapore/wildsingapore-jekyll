@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEigtGN8RBmC3fcM8QjZ7X
 family: Osphronemidae
 genus: Betta
 species: pugnax
-rdb3: LC
+rdb: LC
 zone: []
 inat_id: 618877
 stateofmatter: Life

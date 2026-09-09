@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEjtgjFTR9wbjso6vQrpe6
 family: Zenarchopteridae
 genus: Zenarchopterus
 species: gilli,
-rdb3: DD
+rdb: DD
 zone:
 - marine
 inat_id: 188625

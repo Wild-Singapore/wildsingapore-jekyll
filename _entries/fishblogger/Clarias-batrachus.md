@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEjvot34_GVmQjmV4h3CEn
 family: Clariidae
 genus: Clarias
 species: batrachus
-rdb3: NT
+rdb: NT
 zone:
 - freshwater
 inat_id: 97926

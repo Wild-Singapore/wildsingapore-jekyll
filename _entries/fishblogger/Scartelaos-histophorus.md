@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEibWTeEWgTQrTs0d22xlU
 family: Oxudercidae (Subfamily Oxudercinae - Mudskippers)
 genus: Scartelaos
 species: histophorus
-rdb3: VU
+rdb: VU
 zone:
 - intertidal
 inat_id: 362471

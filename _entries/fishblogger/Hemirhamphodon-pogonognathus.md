@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEhd7BqvW-ABt6F74dVN5S
 family: Zenarchopteridae
 genus: Hemirhamphodon
 species: pogonognathus
-rdb3: EN
+rdb: EN
 zone:
 - freshwater
 inat_id: 446101

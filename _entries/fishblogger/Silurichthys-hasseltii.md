@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEhj0V02HmTA_5bFInh2QN
 family: Siluridae
 genus: Silurichthys
 species: hasseltii
-rdb3: CR
+rdb: CR
 zone:
 - freshwater
 inat_id: 620855

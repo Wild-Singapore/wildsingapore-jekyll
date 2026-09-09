@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEglwbx4qDAel1ZPjmpfB3
 family: Oxudercidae (Subfamily Oxudercinae - Mudskippers)
 genus: Pseudapocryptes
 species: elongatus
-rdb3: VU
+rdb: VU
 zone:
 - intertidal
 inat_id: 110916

@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEh78g4cY3SPtj9jVMcJEP
 family: Aplocheilidae
 genus: Aplocheilus
 species: armatus
-rdb3: LC
+rdb: LC
 zone:
 - marine
 - freshwater

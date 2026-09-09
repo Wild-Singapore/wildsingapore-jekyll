@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEiqIEgp2m-iUS3Sh3UdJX
 family: Danionidae
 genus: Rasbora
 species: einthovenii
-rdb3: VU
+rdb: VU
 zone:
 - freshwater
 inat_id: 552963

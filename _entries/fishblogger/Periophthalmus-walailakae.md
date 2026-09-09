@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEiqvpqc0vkV8UYOTyaLL2
 family: Oxudercidae (Subfamily Oxudercinae - Mudskippers)
 genus: Periophthalmus
 species: walailakae
-rdb3: VU
+rdb: VU
 zone: []
 inat_id: 356421
 stateofmatter: Life

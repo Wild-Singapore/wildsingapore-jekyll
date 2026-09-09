@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEjy6hUGP6gP4kkO_QF9Fu
 family: Oxudercidae (Subfamily Oxudercinae - Mudskippers)
 genus: Boleophthalmus
 species: boddarti
-rdb3: VU
+rdb: VU
 zone:
 - intertidal
 inat_id: 120494

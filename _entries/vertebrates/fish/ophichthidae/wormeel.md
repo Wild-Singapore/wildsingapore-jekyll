@@ -97,7 +97,7 @@ links_references: '### Links
 
   on the NParks website Table of conservation status of species assessed under the
   Singapore Red List as published in the 2nd and 3rd editions of the Singapore Red
-  Data Book (RDB2 and RDB3)
+  Data Book (RDB2 and rdb)
 
 
   ### References

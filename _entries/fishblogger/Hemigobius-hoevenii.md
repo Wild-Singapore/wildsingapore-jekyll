@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEj_JIV32s9TbXqKzhBwx3
 family: 'Oxudercidae: Gobionellinae'
 genus: Hemigobius
 species: hoevenii
-rdb3: LC
+rdb: LC
 zone:
 - marine
 - freshwater

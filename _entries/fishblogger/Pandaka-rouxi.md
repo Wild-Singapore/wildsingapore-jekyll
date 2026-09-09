@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEgiXntsnoU3DhzAd_RBA4
 family: 'Oxudercidae: Gobionellinae'
 genus: Pandaka
 species: rouxi
-rdb3: NT
+rdb: NT
 zone:
 - marine
 inat_id: 530076

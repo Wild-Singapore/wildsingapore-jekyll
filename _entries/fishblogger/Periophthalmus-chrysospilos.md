@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEgmyNlpnNpR5WBDqEb73j
 family: Oxudercidae (Subfamily Oxudercinae - Mudskippers)
 genus: Periophthalmus
 species: chrysospilos
-rdb3: VU
+rdb: VU
 zone:
 - intertidal
 inat_id: 371694

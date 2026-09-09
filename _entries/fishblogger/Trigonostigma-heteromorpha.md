@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEj8Vr1u6HNP5xHIqw5A6D
 family: Danionidae
 genus: Trigonostigma
 species: heteromorpha
-rdb3: EN
+rdb: EN
 zone:
 - freshwater
 inat_id: 188588

@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEjkNhpXsbgdtia9-s7Sv1
 family: Oxudercidae (Subfamily Oxudercinae - Mudskippers)
 genus: Periophthalmus
 species: variabilis
-rdb3: VU
+rdb: VU
 zone:
 - intertidal
 inat_id: 326743

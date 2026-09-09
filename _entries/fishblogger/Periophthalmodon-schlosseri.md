@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEhOH9nAi0GSP6hedVnrNA
 family: Oxudercidae (Subfamily Oxudercinae - Mudskippers)
 genus: Periophthalmodon
 species: schlosseri
-rdb3: LC
+rdb: LC
 zone:
 - intertidal
 inat_id: 361342

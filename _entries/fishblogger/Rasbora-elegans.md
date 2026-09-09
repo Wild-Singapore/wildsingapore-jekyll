@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEhIhsKjHeS7j-xOunqp6O
 family: Danionidae
 genus: Rasbora
 species: elegans
-rdb3: VU
+rdb: VU
 zone:
 - freshwater
 inat_id: 111562

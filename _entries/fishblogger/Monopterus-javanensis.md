@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEhtY-WALFabxHK0P-xXC8
 family: Symbranchidae
 genus: Monopterus
 species: javanensis
-rdb3: LC
+rdb: LC
 zone:
 - freshwater
 inat_id: 1316096

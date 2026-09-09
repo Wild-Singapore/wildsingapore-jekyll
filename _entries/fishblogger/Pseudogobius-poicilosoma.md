@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEhQtmwGGRLHYbqD7sUi_H
 family: 'Oxudercidae: Gobionellinae'
 genus: Pseudogobius
 species: poicilosoma
-rdb3: LC
+rdb: LC
 zone:
 - intertidal
 - marine

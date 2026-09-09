@@ -5,7 +5,7 @@ coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEglgpNcF_KdRDkBgb1g3Q
 family: 'Oxudercidae: Gobionellinae'
 genus: Brachygobius
 species: kabiliensis
-rdb3: NT
+rdb: NT
 zone:
 - marine
 - freshwater
